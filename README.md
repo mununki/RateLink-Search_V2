@@ -13,12 +13,7 @@
   - Place of Discharging
   - Container Type
 
-## Build by
-
-- React.JS
-- Apollo (GraphQL)
-
-## Tech features
+## Tech Stack
 
 - React.js
   - Apollo (+ local state management replacing Redux)
