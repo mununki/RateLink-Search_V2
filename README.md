@@ -17,7 +17,7 @@
 
 - React.js
   - Apollo (+ local state management replacing Redux)
-- Backend: Django + Graphene
+- Backend: Django + Graphene deployed on AWS Lambda
 
 ## Demo
 
